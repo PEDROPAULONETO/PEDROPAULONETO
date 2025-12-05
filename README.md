@@ -18,12 +18,10 @@ Busco ativamente vagas de **Estágio ou Junior** para aplicar e expandir meus co
 [![Email](https://img.shields.io/badge/Email-pedro__pauloneto@outlook.com-red?style=flat&logo=microsoft-outlook)](mailto:pedro_pauloneto@outlook.com) 
 
 ---
----
----
 
 ## 🛠️ Minhas Ferramentas e Tecnologias
 
-[cite_start]Sou um Desenvolvedor Back-End focado em soluções eficientes[cite: 23].
+Sou um Desenvolvedor Back-End focado em soluções eficientes
 
 ### 💻 Linguagens & Core Back-End
 
