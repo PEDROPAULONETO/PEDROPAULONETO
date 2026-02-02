@@ -1,6 +1,6 @@
 # Olá, eu sou Pedro Paulo! 👋
 
-## 🚀 Desenvolvedor Back-End | Java | Python | Cloud Enthusiast
+## 🚀 Desenvolvedor Full Stack | Java | JavaScript | Python | Cloud Enthusiast
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** em Campina Grande, Paraíba. Minha paixão é construir a lógica e a infraestrutura de aplicações modernas, focando em soluções eficientes e escaláveis.
 
@@ -12,7 +12,7 @@ Atualmente, estou em transição de carreira e busco oportunidades de **Estágio
 
 Minha caixa de ferramentas técnica inclui:
 
-* **Linguagens:** Java, Python.
+* **Linguagens:** Java, JavaScript, Python.
 * **Infraestrutura & Cloud:** Docker, AWS.
 * **Dados:** Bancos de Dados Relacionais e Não Relacionais.
 * **Produtividade:** Uso avançado de IA/GenAI para otimização de código e soluções.
